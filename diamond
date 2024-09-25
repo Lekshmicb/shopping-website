@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Diamonds</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+</head>
+<body>
+	<header>
+		<input type="checkbox" name="" id="check">
+		<label for="check" class="fas fa-bars"></label>
+
+		<a href="#" class="logo">DIAMONDS</a>
+		<nav class="navbar">
+			<a href="#home">Home</a>
+			<a href="#about">About</a>
+			<a href="#product">Product</a>
+			<a href="#review">Review</a>
+			<a href="#contact">Contact</a>
+			
+		</nav>
+
+	<div class="icons">
+		<a href="#" class="fas fa-user "></a>
+		<a href="#" class="fas fa-shopping-cart "></a>
+		<a href="#" class="fas fa-heart "></a>
+	</div>
+	</header>
+
+	<section class="main" id="main">
+		<div class="content">
+			<h3> Diamonds</h3>
+			<span>Glam like Diamond</span>
+			<p>Shine On your Big Day With Unique Sparkles.Explore Jewels That Complete Your Bridal Look.  </p>
+			<a href="#" class="btn">Shop now</a>
+			
+		</div>
+		
+	</section>
+	<section class="about" id="about">
+		<h1 class="heading"><span>About us</span> </h1>
+		<div class="row">
+			<div class="gif">
+				<img src="https://i.pinimg.com/originals/5b/f4/00/5bf400ba325e910a51c8431c68e80df7.gif">
+				<h3>Pure diamonds</h3>
+				
+			</div>
+			<div class="aboutcontent">
+				<h3>WHY CHOOSE US? </h3>
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+				
+				
+			</div>
+			
+		</div>
+		
+	</section>
+	<section class="icons-cont">
+		<div class="icon">
+			<img src="C:\Users\Lekshmi\Pictures\free de.png" style="width: 50%;">
+			<div class="info">
+				<h3>Free Delivery</h3>
+				<span>on all orders</span>
+				
+			</div>	
+		</div>
+
+		<div class="icon">
+			<img src="C:\Users\Lekshmi\Pictures\secure payment.png" style="width: 50%;">
+			<div class="info">
+				<h3>Secure payments</h3>
+				<span>protected by pay India</span>
+				
+			</div>	
+		</div>
+		<div class="icon">
+			<img src="C:\Users\Lekshmi\Pictures\gift.png" style="width: 50%;">
+			<div class="info">
+				<h3>Rewards</h3>
+				<span>gifts and offers</span>
+				
+			</div>	
+		</div>
+	
+	</section>
+	<section class="product" id="product">
+		<h1 class="heading">Latest Collections</h1>
+		<div class="box-cont">
+			<div class="box">
+				<span class="discount">-10%</span>
+				<div class="image">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudUcwGp2J7zInhZQFRkmAhMa4tQ9aGRj2SA&s">
+					<div class="icons">
+						<a href="#" class="fas fa-heart"></a>
+						<a href="#" class="cart-btn">add to cart</a>
+						<a href="#" class="fas fa-share"></a>
+						
+					</div>
+					
+				</div>
+				<div class="content">
+					<h2>Necklace</h2>
+					<div class="price">50000</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		<div class="box">
+				<span class="discount">-5%</span>
+				<div class="image">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2dAPa02Nhp1S8wDqtTNWgVLqh46R2orXEg&s">
+					<div class="icons">
+						<a href="#" class="fas fa-heart"></a>
+						<a href="#" class="cart-btn">add to cart</a>
+						<a href="#" class="fas fa-share"></a>
+						
+					</div>
+					
+				</div>
+				<div class="content">
+					<h2>Ring</h2>
+					<div class="price">100000</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		<div class="box">
+				<span class="discount">-15%</span>
+				<div class="image">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTikn9dW6IOouxzUls3vUS09fKED17n-FNBtOrX4zsSeHLzp-PE3EXlluHJIqPaHQWB1M&usqp=CAU">
+					<div class="icons">
+						<a href="#" class="fas fa-heart"></a>
+						<a href="#" class="cart-btn">add to cart</a>
+						<a href="#" class="fas fa-share"></a>
+						
+					</div>
+					
+				</div>
+				<div class="content">
+					<h2>Bangle</h2>
+					<div class="price">200000</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		<div class="box">
+				<span class="discount">-25%</span>
+				<div class="image">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCtlbpuQsi1CohB1ZLGumdvwbDANrHWPVFA&s">
+					<div class="icons">
+						<a href="#" class="fas fa-heart"></a>
+						<a href="#" class="cart-btn">add to cart</a>
+						<a href="#" class="fas fa-share"></a>
+						
+					</div>
+					
+				</div>
+				<div class="content">
+					<h2>Earrning</h2>
+					<div class="price">60000</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</section>
+
+</body>
+</html>
